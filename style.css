@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+:root {
+  --cornflowerblue: hsl(219, 79%, 66%);
+  --Off-white: hsl(36, 100%, 99%);
+  --Verydarkblue: hsl(240, 100%, 5%);
+  --pink: hsl(350, 100%, 88%);
+  --Darkgrayishblue: hsl(236, 13%, 42%);
+  --Grayishblue: hsl(233, 8%, 79%);
+  --Softorange: hsl(35, 77%, 62%);
+  --Softred: hsl(5, 85%, 63%);
+}
+
+p {
+  font-size: 18px;
+}
